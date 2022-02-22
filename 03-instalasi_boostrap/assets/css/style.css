@@ -1,0 +1,32 @@
+nav {
+    background-color: #0D28A6 !important;
+}
+
+nav a {
+    color: white !important;
+    text-decoration: none;
+    text-shadow: 1px 1px 5px black;
+}
+
+nav button {
+    color: white !important;
+    border-color: white !important;
+}
+
+img {
+    height: 500px;
+}
+
+#paragraph {
+    text-align: justify;
+    font-size: 15px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.accordion {
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-bottom: 50px;
+}

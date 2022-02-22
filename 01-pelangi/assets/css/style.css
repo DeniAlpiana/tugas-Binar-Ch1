@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.pelangi {
+    width: 100vw;
+    height: 14.28vh;
+    text-align: center;
+    font-size: 50px;
+    text-transform: uppercase;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: 1px 1px 1px black;
+}
+
+.merah {
+    background-color: red;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+}
+
+.jingga {
+    background-color: orange;
+}
+
+.kuning {
+    background-color: yellow;
+}
+
+.hijau {
+    background-color: green;
+}
+
+.biru {
+    background-color: blue;
+}
+
+.nila {
+    background-color: indigo;
+}
+
+.ungu {
+    background-color: purple;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+}
